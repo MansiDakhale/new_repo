@@ -1,0 +1,4 @@
+[core]
+    remote = mineremote
+['remote "mineremote"']
+    url = ../s3
